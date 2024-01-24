@@ -1,0 +1,177 @@
+body{
+    background-color: rgb(197, 217, 234);
+    margin: 0
+}
+h1{
+    color: darkblue;
+}
+#link1{
+    color:darkcyan ;
+    text-decoration: none;
+    font-size: 18px;
+}
+#link2{
+    color:darkcyan ;
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 4%;
+}
+#link3{
+    color:darkcyan ;
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 10%;
+}
+#link4{
+    color:darkcyan ;
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 4%;
+}
+#link1:hover {
+    text-decoration: underline;
+    color: darkblue;
+}
+#link2:hover {
+    text-decoration: underline;
+    color: darkblue;
+}
+#link3:hover {
+    text-decoration: underline;
+    color: darkblue;
+}
+#link4:hover {
+    text-decoration: underline;
+    color: darkblue;
+}
+
+
+header {
+    background-color:rgb(197, 217, 234);
+    top: 0;
+    width: 100%
+}
+header h1 {
+    margin: 0;
+    font-size: 20px;
+}
+nav {
+    text-align: center;
+    margin: 0;
+    background-color: rgb(197, 217, 234);
+    margin-top: 20px;
+    width: 100%
+}
+
+
+#article1{
+    border: solid rgb(84, 109, 132);
+    display: inline-block;
+    text-align: center;
+    background: #b6c2c6;
+    width: 30%; 
+    height: 650px;
+    margin-top: 20px;
+    margin-left: 32px;
+}
+#falda{
+    border: solid  rgb(84, 109, 132);
+    display: inline-block;
+    background: #b6c2c6;
+    text-align: center;
+    width: 95%; 
+    height: 530px;
+    margin-top: 20px;
+}
+#pantalones{
+    border: solid  rgb(84, 109, 132);
+    display: inline-block;
+    background: #b6c2c6;
+    text-align: center;
+    width: 95%; 
+    height: 530px;
+    margin-top: 20px;
+}
+#vestido{
+    border: solid  rgb(84, 109, 132);
+    display: inline-block;
+    background: #b6c2c6;
+    text-align: center;
+    width: 95%; 
+    height: 530px;
+    margin-top: 20px;
+}
+#Descripcion{
+    font-size: 15px;
+}
+#Precio{
+    font-size: 15px;
+    padding-top: 10px;
+}
+
+#article2{
+    border: solid rgb(84, 109, 132);
+    display: inline-block;
+    text-align: center;
+    background: #b6c2c6;
+    width: 30%; 
+    height: 650px;
+    margin-top: 20px;
+    margin-left: 32px;
+}
+#botas{
+    border: solid  rgb(84, 109, 132);
+    display: inline-block;
+    background: #b6c2c6;
+    text-align: center;
+    width: 95%; 
+    height: 530px;
+    margin-top: 20px;
+}
+#chaqueta{
+    border: solid  rgb(84, 109, 132);
+    display: inline-block;
+    background: #b6c2c6;
+    text-align: center;
+    width: 95%; 
+    height: 530px;
+    margin-top: 20px;
+}
+#sudadera{
+    border: solid  rgb(84, 109, 132);
+    display: inline-block;
+    background: #b6c2c6;
+    text-align: center;
+    width: 95%; 
+    height: 530px;
+    margin-top: 20px;
+}
+
+
+#formulario{
+    border: solid rgb(84, 109, 132);
+    display: inline-block;
+    text-align: center;
+    background: #b6c2c6;
+    width: 20%; 
+    height: 280px;
+    margin-top: 20px;
+    margin-left: 40%;
+}
+
+.posicion{
+    float: right;
+}
+
+footer {
+    color: white;
+    margin-top: 20px;
+    background-color:darkblue;
+    padding: 17px 10px;
+}
+
+#redes{
+   float: right;
+   padding-bottom: 10px;
+   margin-left: 5px;
+}
